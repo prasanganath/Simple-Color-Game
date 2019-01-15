@@ -1,3 +1,3 @@
-# Simple-Color-Game
-Find the rgb colours. 
+# Simple-Logic-Game
+1.Find the rgb colours. 
 
